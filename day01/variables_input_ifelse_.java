@@ -2,7 +2,7 @@ package day01;
 import java.util.Scanner;
 
 
-public class variables {
+public class variables_input_ifelse_ {
     public static void main(String[] args) {
 
         // declaring variables
